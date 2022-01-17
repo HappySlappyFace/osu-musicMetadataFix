@@ -10,4 +10,4 @@ Make sure to change the directory in order for the script to work!
 ```
 directory= 'XXXX/osu!/songs/'
 ```
-** Make sure to use / instead of \ **
+**Make sure** to use / instead of \
